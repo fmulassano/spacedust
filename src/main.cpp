@@ -12,7 +12,7 @@
 #include <Buttons.h>
 #include <Encoders.h>
 #include <Display.h>
-#include <User_functions.h>
+#include <User_functions.h> //user functions 
 
 // GUItool: begin automatically generated code
 AudioSynthWaveform       waveform1;      //xy=188,240
